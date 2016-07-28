@@ -1,9 +1,12 @@
 # designsource
 “淘学网” 本科毕业设计
 
-    塔里木大学“淘学网”是一个类似58同城的二手服务平台。该项目是自己本科毕业设计作品，非常用心的去做，期间学习了不少技术，并运用到设计里面。
+    塔里木大学“淘学网”是一个类似58同城的二手服务平台。
+    
     整体框架使用国产轻量级的Nutz框架，数据库使用MySQL数据库，并用阿里的开源项目Druid作为数据库连接池，实现其强大的监控特性，如统计SQL信息及SQL性能等。
+    
     前端使用Bootstrap美化页面并解决响应式需求，使用jQuery及其插件，如zTree(后台权限树)、treeTable、validate、datetimepicker、jBox、summernote等等。
+    
     同时，项目集成了Redis缓存、Quartz定时任务及e-mail等功能。
     
     项目特色：
